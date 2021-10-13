@@ -19,3 +19,7 @@
 # Donate me:
 - **[PayPal](https://paypal.me/lytetools)**
 - **[Saweria](https://saweria.co/LyteVV)**
+
+# Contact
+You Can contact me via Email: **lytecst@gmail.com**,
+or via Discord Server **[LyteDevelopment](https://discord.gg/Ehuffyfamz)**
